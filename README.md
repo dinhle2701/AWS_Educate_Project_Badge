@@ -1,1 +1,1 @@
-# AWS_Educate_Project_Badge
+<h1 align="center">AWS Educate Project Badge</h1>
