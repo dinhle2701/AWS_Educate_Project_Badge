@@ -2,7 +2,9 @@
 
 <h3 align="center">Getting Started with Storage Badge</h3>
 
-![alt text](image.png)
+<p align="center">
+  <img src="image.png" width="350" alt="alt text">
+</p>
 
 <h3 align="center">AWS Educate Project Badge</h3>
 
